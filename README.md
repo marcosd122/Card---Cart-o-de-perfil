@@ -1,6 +1,6 @@
-# Curso-WEB -- Aplicativo Meteorológico
+# Curso-WEB -- Card - Cartão de perfil
 
-Projeto de desenvolvimento Aplicativo Meteorológico
+Projeto de desenvolvimento Card - Cartão de perfil
 
 Atividade curso Web
 
